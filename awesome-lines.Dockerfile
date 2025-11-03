@@ -17,4 +17,5 @@ COPY . .
 
 RUN cat /etc/os-release
 
-CMD ["echo", "hello", "world"]
+CMD ["echo", "hello", "world", "Sonk"]
+
