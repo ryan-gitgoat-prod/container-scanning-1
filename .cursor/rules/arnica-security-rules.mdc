@@ -10,8 +10,6 @@ alwaysApply: true
 These AI coding assistant rules are automatically managed by your security team to ensure secure coding practices.
 For more details, see: https://docs.arnica.io/arnica-documentation/developers/ai-coding-rules
 To exclude this file, please contact your security team.
-
-**Message from the security team:** These security rules are managed by the Security team via Arnica and are automatically kept up to date. Please do not modify or remove them. If you have questions, exceptions, or want to discuss a flagged pattern, reach out to the Security team in #security.
 ---
 
 ## Security Best Practices for AI Agents
